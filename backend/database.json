@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Clifford Owens",
+            "email": "clifford.owens@example.com",
+            "phone": "(989)-433-3449"
+        },
+        {
+            "id": 2,
+            "name": "Gabe Hamilton",
+            "email": "gabe.hamilton@example.com",
+            "phone": "(317)-303-3850"
+        },
+        {
+            "id": 3,
+            "name": "Rene Sutton",
+            "email": "rene.sutton@example.com",
+            "phone": "(056)-128-7405"
+        },
+        {
+            "id": 4,
+            "name": "Chester Caldwell",
+            "email": "chester.caldwell@example.com",
+            "phone": "(225)-256-0008"
+        }
+    ]
+}
